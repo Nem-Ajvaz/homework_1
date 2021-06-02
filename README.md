@@ -2,6 +2,7 @@
 
 ## Installation
 To clone and run this project, please make sure you have git installed.
+
 run `git clone https://github.com/Nem-Ajvaz/homework_1.git`
 
 ## Description
